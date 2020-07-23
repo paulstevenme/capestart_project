@@ -1,0 +1,44 @@
+{
+  "name": "analystor-ui2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@blueprintjs/core": "^3.19.1",
+    "@blueprintjs/datetime": "^3.15.1",
+    "@blueprintjs/docs-theme": "^3.4.0",
+    "antd": "^3.24.3",
+    "axios": "^0.19.0",
+    "date-fns": "^2.8.1",
+    "mdbreact": "^4.22.0",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.2.0",
+    "react-spinners": "^0.6.1",
+    "react-switch": "^5.0.1",
+    "react-toastify": "^5.4.0",
+    "react-web-tabs": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
